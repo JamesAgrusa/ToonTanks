@@ -1,0 +1,37 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\gamedev\\unrealengine\\tooktank2\\toontanksprojectsetup_4.25\\toontanks\\source\\toontanks\\toontanksgamemode.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\gamedev\\unrealengine\\tooktank2\\toontanksprojectsetup_4.25\\toontanks\\intermediate\\build\\win64\\x64\\toontanks\\development\\engine\\sharedpch.engine.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "e:\\gamedev\\unrealengine\\tooktank2\\toontanksprojectsetup_4.25\\toontanks\\intermediate\\build\\win64\\x64\\unrealgame\\development\\toontanks\\definitions.toontanks.h",
+            "e:\\gamedev\\unrealengine\\tooktank2\\toontanksprojectsetup_4.25\\toontanks\\source\\toontanks\\toontanksgamemode.h",
+            "d:\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "d:\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "d:\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "d:\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "e:\\gamedev\\unrealengine\\tooktank2\\toontanksprojectsetup_4.25\\toontanks\\intermediate\\build\\win64\\unrealgame\\inc\\toontanks\\uht\\toontanksgamemode.generated.h",
+            "d:\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystatics.h",
+            "d:\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetsystemlibrary.h",
+            "d:\\ue_5.4\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "d:\\ue_5.4\\engine\\source\\runtime\\coreuobject\\public\\assetregistry\\arfilter.h",
+            "d:\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\kismetsystemlibrary.generated.h",
+            "d:\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\sound\\dialoguetypes.h",
+            "d:\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\dialoguetypes.generated.h",
+            "d:\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystaticstypes.h",
+            "d:\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\gameplaystaticstypes.generated.h",
+            "d:\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\gameplaystatics.generated.h",
+            "e:\\gamedev\\unrealengine\\tooktank2\\toontanksprojectsetup_4.25\\toontanks\\source\\toontanks\\tank.h",
+            "e:\\gamedev\\unrealengine\\tooktank2\\toontanksprojectsetup_4.25\\toontanks\\source\\toontanks\\basepawn.h",
+            "e:\\gamedev\\unrealengine\\tooktank2\\toontanksprojectsetup_4.25\\toontanks\\intermediate\\build\\win64\\unrealgame\\inc\\toontanks\\uht\\basepawn.generated.h",
+            "e:\\gamedev\\unrealengine\\tooktank2\\toontanksprojectsetup_4.25\\toontanks\\intermediate\\build\\win64\\unrealgame\\inc\\toontanks\\uht\\tank.generated.h",
+            "e:\\gamedev\\unrealengine\\tooktank2\\toontanksprojectsetup_4.25\\toontanks\\source\\toontanks\\tower.h",
+            "e:\\gamedev\\unrealengine\\tooktank2\\toontanksprojectsetup_4.25\\toontanks\\intermediate\\build\\win64\\unrealgame\\inc\\toontanks\\uht\\tower.generated.h",
+            "e:\\gamedev\\unrealengine\\tooktank2\\toontanksprojectsetup_4.25\\toontanks\\source\\toontanks\\toontanksplayercontroller.h",
+            "e:\\gamedev\\unrealengine\\tooktank2\\toontanksprojectsetup_4.25\\toontanks\\intermediate\\build\\win64\\unrealgame\\inc\\toontanks\\uht\\toontanksplayercontroller.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

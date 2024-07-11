@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/GameDev/UnrealEngine/TookTank2/ToonTanksProjectSetup_4.25/ToonTanks/Content/Maps/Main.umap",
+				"E:/GameDev/UnrealEngine/TookTank2/ToonTanksProjectSetup_4.25/ToonTanks/Content/Blueprints/Pawns/BP_PawnTank.uasset",
+				"E:/GameDev/UnrealEngine/TookTank2/ToonTanksProjectSetup_4.25/ToonTanks/Content/Blueprints/Pawns/BP_PawnTurret.uasset",
+				"E:/GameDev/UnrealEngine/TookTank2/ToonTanksProjectSetup_4.25/ToonTanks/Content/Blueprints/Actors/BP_Projectile.uasset",
+				"E:/GameDev/UnrealEngine/TookTank2/ToonTanksProjectSetup_4.25/ToonTanks/Content/Blueprints/GameMode/BP_ToonTanksGameMode.uasset",
+				"E:/GameDev/UnrealEngine/TookTank2/ToonTanksProjectSetup_4.25/ToonTanks/Content/Blueprints/PlayerController/BP_ToonTanksPlayerController.uasset",
+				"E:/GameDev/UnrealEngine/TookTank2/ToonTanksProjectSetup_4.25/ToonTanks/Content/Blueprints/Widgets/WBP_StartGameWidget.uasset",
+				"E:/GameDev/UnrealEngine/TookTank2/ToonTanksProjectSetup_4.25/ToonTanks/Content/Blueprints/Widgets/WBP_EndGameWidget.uasset",
+				"E:/GameDev/UnrealEngine/TookTank2/ToonTanksProjectSetup_4.25/ToonTanks/Content/Blueprints/CameraShake/BP_DeathCameraShake.uasset",
+				"E:/GameDev/UnrealEngine/TookTank2/ToonTanksProjectSetup_4.25/ToonTanks/Content/Blueprints/CameraShake/BP_HitCameraShake.uasset",
+				"E:/GameDev/UnrealEngine/TookTank2/ToonTanksProjectSetup_4.25/ToonTanks/Content/Blueprints/PlayerController/BP_Projectile.uasset"
+			]
+		}
+	]
+}
